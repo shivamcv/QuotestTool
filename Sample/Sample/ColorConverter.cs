@@ -13,7 +13,7 @@ namespace Sample
        static double LastValue; 
         public object Convert(object value, Type targetType, object parameter, System.Globalization.CultureInfo culture)
         {
-            if (value == null) return null;
+            if (value == null)   return null;
 
             double currentValue;
 
@@ -23,10 +23,10 @@ namespace Sample
 
             if (currentValue > LastValue)
             {
-                result = new SolidColorBrush(Colors.Green);
+                result = new SolidColorBrush(Colors.Black);
             }
             else
-                result = new SolidColorBrush(Colors.Red);
+                result = new SolidColorBrush(Colors.Gray);
 
 
             LastValue = currentValue;

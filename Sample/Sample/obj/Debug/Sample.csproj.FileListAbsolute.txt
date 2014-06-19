@@ -17,3 +17,22 @@ c:\users\shivam.singh\documents\visual studio 2013\Projects\Sample\Sample\bin\De
 c:\users\shivam.singh\documents\visual studio 2013\Projects\Sample\Sample\bin\Debug\HtmlAgilityPack.xml
 c:\users\shivam.singh\documents\visual studio 2013\Projects\Sample\Sample\obj\Debug\GeneratedInternalTypeHelper.g.cs
 c:\users\shivam.singh\documents\visual studio 2013\Projects\Sample\Sample\obj\Debug\Sample_MarkupCompile.lref
+C:\Users\shivam.singh\Documents\GitHub\QuotestTool\Sample\Sample\bin\Debug\Sample.exe.config
+C:\Users\shivam.singh\Documents\GitHub\QuotestTool\Sample\Sample\obj\Debug\Sample.exe
+C:\Users\shivam.singh\Documents\GitHub\QuotestTool\Sample\Sample\obj\Debug\Sample.pdb
+C:\Users\shivam.singh\Documents\GitHub\QuotestTool\Sample\Sample\bin\Debug\Sample.exe
+C:\Users\shivam.singh\Documents\GitHub\QuotestTool\Sample\Sample\bin\Debug\Sample.pdb
+C:\Users\shivam.singh\Documents\GitHub\QuotestTool\Sample\Sample\bin\Debug\HtmlAgilityPack.dll
+C:\Users\shivam.singh\Documents\GitHub\QuotestTool\Sample\Sample\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\shivam.singh\Documents\GitHub\QuotestTool\Sample\Sample\bin\Debug\HtmlAgilityPack.xml
+C:\Users\shivam.singh\Documents\GitHub\QuotestTool\Sample\Sample\obj\Debug\Sample.csprojResolveAssemblyReference.cache
+C:\Users\shivam.singh\Documents\GitHub\QuotestTool\Sample\Sample\obj\Debug\MainWindow.g.cs
+C:\Users\shivam.singh\Documents\GitHub\QuotestTool\Sample\Sample\obj\Debug\App.g.cs
+C:\Users\shivam.singh\Documents\GitHub\QuotestTool\Sample\Sample\obj\Debug\Sample_Content.g.cs
+C:\Users\shivam.singh\Documents\GitHub\QuotestTool\Sample\Sample\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\shivam.singh\Documents\GitHub\QuotestTool\Sample\Sample\obj\Debug\Sample_MarkupCompile.cache
+C:\Users\shivam.singh\Documents\GitHub\QuotestTool\Sample\Sample\obj\Debug\Sample_MarkupCompile.lref
+C:\Users\shivam.singh\Documents\GitHub\QuotestTool\Sample\Sample\obj\Debug\MainWindow.baml
+C:\Users\shivam.singh\Documents\GitHub\QuotestTool\Sample\Sample\obj\Debug\Sample.g.resources
+C:\Users\shivam.singh\Documents\GitHub\QuotestTool\Sample\Sample\obj\Debug\Sample.Properties.Resources.resources
+C:\Users\shivam.singh\Documents\GitHub\QuotestTool\Sample\Sample\obj\Debug\Sample.csproj.GenerateResource.Cache

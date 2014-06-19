@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Microsoft.Win32;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Linq;
@@ -42,10 +43,20 @@ namespace Sample
 
         public MainWindow()
         {
+
+            
             InitializeComponent();
+            Left = Properties.Settings.Default.X;
+            Top = Properties.Settings.Default.Y;
+
+            this.Loaded +=MainWindow_Loaded;
+        
             this.DataContext = this;
-            this.Loaded += MainWindow_Loaded;
         }
+
+      
+
+       
 
         void MainWindow_Loaded(object sender, RoutedEventArgs e)
         {
@@ -74,6 +85,15 @@ namespace Sample
         private void Drag_click(object sender, MouseButtonEventArgs e)
         {
             DragMove();
+        }
+
+        private void Location_Changed(object sender, EventArgs e)
+        {
+           
+            Properties.Settings.Default.X = Left;
+            Properties.Settings.Default.Y = Top;
+            Properties.Settings.Default.Save();
+
         }
     }
 }
